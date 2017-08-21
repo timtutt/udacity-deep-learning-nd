@@ -1,1 +1,1 @@
-# Udacity Deep Learning Foundations Naondegree
+# Udacity Deep Learning Foundations Nanodegree
